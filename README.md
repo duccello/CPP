@@ -1,4 +1,4 @@
-This projects were developed on C++ 98 in a Private Git from 42 Berlin school of coding, now I'm uploading them here to showcase my implementations.
+This projects were developed in C++ 98 in a Private Git from 42 Berlin school of coding, now I'm uploading them here to showcase my implementations.
 
 Containers
 
